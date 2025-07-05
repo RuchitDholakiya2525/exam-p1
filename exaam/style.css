@@ -1,0 +1,111 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+    font-family: poppins;
+}
+/* 1. Pink : #ab5692
+2. Purple : #513252
+3. Black : #000000
+4. White : #ffffff
+5. Button Gradient : #ab5692, #513252 */
+
+
+.heading{
+    color:#513252;
+    text-align: center;
+    padding-top: 20px;
+ 
+  
+}
+.pic{
+    width: 100%;
+    opacity: 60%;
+    
+}
+.pic1{
+    height: 50px;
+    width: 400px;
+    margin-left: 20px;
+    padding-top: 25px;
+}
+.box{
+    position: absolute;
+    top: 250px; 
+    left: 500px; 
+    background-color: white; 
+    color: white;
+    padding: 10px 15px;
+    border-radius: 8px;
+    font-size: 18px;
+    height: 700px;
+    width: 500px;
+    border: 2px solid black;
+    
+    
+}
+.F{
+    padding-top: 50px;
+}
+.F1{
+    padding-top:0px;
+
+}
+.Form{
+    border-radius: 10px;
+    border-color: black;
+    height:75px;
+    width:400px;
+    padding: 10px;
+    margin:20px;
+}
+
+.btn{
+    height:60px;
+    width:400px;
+    margin:25px;
+    border-radius: 10px;
+    background-image :linear-gradient(to right,#ab5692, #513252);
+    border: transparent;
+    color: white;
+    font-weight: 600;
+    font-size: large;
+    letter-spacing: 1px;
+}
+
+.heading1{
+    text-align: end;
+    margin-right: 50px;
+    color: #ab5692;
+
+}
+.text{
+    text-align: center;
+    color: #000000;
+}
+
+.taga{
+    color: #ab5692;
+   background: none;
+   border: 2px dotted rgb(0, 0, 0);
+   border-radius:50px ;
+   font-size: 30px;
+   margin-left: 185px;
+}
+.tagb{
+   color: #ab5692;
+   background: none;
+   border: 2px dotted rgb(0, 0, 0);
+   border-radius:50px ;
+   font-size: 30px;
+   margin-left:20px;
+}
+.inp{
+    color: black;
+    margin-left: 80px;
+    margin-top: 40px;
+    font-size: 25px;
+}
+.in2{
+    color: #ab5692;
+}
